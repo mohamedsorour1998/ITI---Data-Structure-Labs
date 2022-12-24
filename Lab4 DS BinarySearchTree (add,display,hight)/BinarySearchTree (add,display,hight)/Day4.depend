@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669482080 source:c:\users\moham\downloads\day4\day4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1669482096 c:\users\moham\downloads\day4\day4\include\tree.h
+
+1670214527 source:c:\users\moham\iclouddrive\iti iot intake 43 materials\data structure\labs\lab4\getheightofbinarysearchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1670219094 c:\users\moham\iclouddrive\iti iot intake 43 materials\data structure\labs\lab4\getheightofbinarysearchtree\include\tree.h
+
