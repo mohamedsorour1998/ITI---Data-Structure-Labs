@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1668807564 source:c:\users\moham\iclouddrive\iti iot intake 43 materials\data structure\labs\lab2\lab2\lab2\lab2-queue\main.c
-	<stdio.h>
-	<stdlib.h>
-	"QUEUE.H"
-
-1668807615 c:\users\moham\iclouddrive\iti iot intake 43 materials\data structure\labs\lab2\lab2\lab2\lab2-queue\queue.h
-
