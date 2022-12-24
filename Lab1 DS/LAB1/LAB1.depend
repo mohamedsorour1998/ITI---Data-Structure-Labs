@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1668659417 source:c:\users\moham\iclouddrive\iti iot intake 43 materials\data structure\labs\lab1\lab1\main.c
-	<stdio.h>
-	<stdlib.h>
-	"LinkedList.h"
-
-1668659777 c:\users\moham\iclouddrive\iti iot intake 43 materials\data structure\labs\lab1\lab1\linkedlist.h
-
